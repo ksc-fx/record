@@ -1,6 +1,6 @@
 ## 微信
-https://github.com/aben1188/awesome-wepy wepy微信
-https://github.com/justjavac/awesome-wechat-weapp 微信开发资源汇总
+- https://github.com/aben1188/awesome-wepy wepy微信
+- https://github.com/justjavac/awesome-wechat-weapp 微信开发资源汇总
 
 
 
